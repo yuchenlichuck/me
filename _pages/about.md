@@ -20,7 +20,7 @@ Aug 2020 - May 2022</p>
 National University of Singapore<br />
 Jan 2019 - May 2019</p>
 
-<p><img src="../images/SUSTech.png" alt="NUS" width="230px" style="float:left"/></p>
+<p><img src="../images/SUSTech.png" alt="SUSTech" width="200px" style="float:left"/></p>
 <p style="margin-left:230px"><b>Bachelor in Computer Science</b><br />
 Southern University of Science and Technology<br />
 Sep 2017 - Jun 2021 (Expected)</p>
